@@ -1,10 +1,3 @@
-# Parkers Pterodactyl eggs repo
-
-I am working on adding a large collection of public eggs for the Pterodactyl community.
-
-With that I am also accepting PR's for new services and also updates to the current ones.
-
-If you are submitting PR's try and keep names and titles the same.
 
 ## How to import an egg
 
@@ -18,9 +11,6 @@ If you are reading this it looks like you are looking to add an egg to your serv
 5. Select what nest you want to put the egg in.
    1. If you want a new nest you need to create it before importing the egg.
 
-## You must restart your daemon after importing an egg if you are using 0.7. This is not required on 1.X
-
-## Please read the CONTRIBUTING.md before submitting PRs
 
 ## [Bots](/bots)
 
